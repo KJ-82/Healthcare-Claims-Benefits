@@ -1,8 +1,7 @@
 # Healthcare Claims & Benefits
 
 Synthetic health plan database (SQL Server / T-SQL) with a small ASP.NET Core API (C#).
-Practice project for Healthcare Configuration Analyst work: benefit configuration,
-claims validation, and HIPAA-conscious API design.
+Main Subjects: Benefit configuration, claims validation, and HIPAA-conscious API design.
 
 **All data is fictional. No real PHI.**
 
